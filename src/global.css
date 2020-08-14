@@ -1,0 +1,29 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100vh;
+}
+
+
+
+@media (max-width: 1400px){
+  body{
+    margin: 3rem 0 3rem 0;
+  }
+}
+
+html,
+body,
+.root{
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+  height: 100%;
+  width: 100%;
+} 
+
